@@ -1,7 +1,9 @@
-# Description
+# 0x01 - Emacs
+
+### Description
 In this project, students familiarize themselves with using emacs.
 
-# Project Files
+### Project Files
 Names | Description
 ------|-----------------------
 0-opening | How to open files
@@ -14,5 +16,5 @@ Names | Description
 100-tetris | How to open Tetris in emacs
 101-doctor | how to open Doctor in emacs
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV
