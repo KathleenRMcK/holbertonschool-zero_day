@@ -1,10 +1,12 @@
-# Description
+# 0x00 - Vagrant
+
+### Description
 In this project, students familiarize themselves with vagrant and the virtual machine.
 
-# Project Files
+### Project Files
 Names | Description
 ------|-----------------------
 0-hello_ubuntu | Project answer
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV
