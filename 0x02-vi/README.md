@@ -1,7 +1,9 @@
-# Description
+# 0x02 - Vi
+
+### Description
 In this project, students learn how to use the vi text editor.
 
-# Project Files
+### Project Files
 Names | Description
 ------|-----------------------
 0-inserting | How to insert text
@@ -14,5 +16,5 @@ Names | Description
 100-move_to_line | How to move to specific line
 101-delete_line | How to delete an entire line
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV
